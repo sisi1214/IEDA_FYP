@@ -1,4 +1,5 @@
 # IEDA_FYP
-Data viz on the HKSTP EV Parking data 2024-2025
+HKSTP EV Parking data 2024-2025
+Data visualization on the usage by fraction on daily basis
 (possible) Poisson process
-(possible) mu/lambda calculation
+mu/lambda calculation
